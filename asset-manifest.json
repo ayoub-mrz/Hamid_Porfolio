@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Hamid_Porfolio/static/css/main.31d6cfe0.css",
-    "main.js": "/Hamid_Porfolio/static/js/main.2510128a.js",
+    "main.js": "/Hamid_Porfolio/static/js/main.e8658bc5.js",
     "index.html": "/Hamid_Porfolio/index.html",
-    "main.2510128a.js.map": "/Hamid_Porfolio/static/js/main.2510128a.js.map"
+    "main.e8658bc5.js.map": "/Hamid_Porfolio/static/js/main.e8658bc5.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.2510128a.js"
+    "static/js/main.e8658bc5.js"
   ]
 }
