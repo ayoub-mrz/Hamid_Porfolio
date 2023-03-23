@@ -1,7 +1,8 @@
 const self = this;
 const CACHE_NAME = 'static_cache'
 const STATIC_ASSETS = [
-    '/',
+    './',
+    "./index.html"
 ]
 
 self.addEventListener('install', e => {
