@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/Hamid_Porfolio/static/css/main.8bccdcfb.css",
-    "main.js": "/Hamid_Porfolio/static/js/main.609f11e0.js",
+    "main.css": "/Hamid_Porfolio/static/css/main.51a34201.css",
+    "main.js": "/Hamid_Porfolio/static/js/main.2a8c80a4.js",
+    "static/media/6.jpg": "/Hamid_Porfolio/static/media/6.f2a23f609adc50a8fdbc.jpg",
     "static/media/About_Background_Desktop.jpg": "/Hamid_Porfolio/static/media/About_Background_Desktop.dcf37ad2c2800b59930a.jpg",
+    "static/media/2.jpg": "/Hamid_Porfolio/static/media/2.d2aeff1a57774310720b.jpg",
+    "static/media/5.jpg": "/Hamid_Porfolio/static/media/5.d7101d191497047c0e9d.jpg",
+    "static/media/9.jpg": "/Hamid_Porfolio/static/media/9.f592575574aec96b350b.jpg",
+    "static/media/4.jpg": "/Hamid_Porfolio/static/media/4.524b7f8e3e411f792555.jpg",
+    "static/media/8.jpg": "/Hamid_Porfolio/static/media/8.1d122661a9e8d236eb84.jpg",
+    "static/media/3.jpg": "/Hamid_Porfolio/static/media/3.11dbfd60747c6f99b5a6.jpg",
+    "static/media/7.jpg": "/Hamid_Porfolio/static/media/7.877e2811b8e8dc88459b.jpg",
+    "static/media/15.jpg": "/Hamid_Porfolio/static/media/15.3f4803bc636d04cad9ac.jpg",
+    "static/media/13.jpg": "/Hamid_Porfolio/static/media/13.df314ffdb70bb0391dc3.jpg",
+    "static/media/14.jpg": "/Hamid_Porfolio/static/media/14.d64d6316ded314c5aec6.jpg",
+    "static/media/10.jpg": "/Hamid_Porfolio/static/media/10.fb92215c3cb37973aac6.jpg",
+    "static/media/12.jpg": "/Hamid_Porfolio/static/media/12.d4edd5691bd496fe6e22.jpg",
+    "static/media/11.jpg": "/Hamid_Porfolio/static/media/11.cfd38b8c5aa08e684d6b.jpg",
+    "static/media/1.jpg": "/Hamid_Porfolio/static/media/1.fba843d1322c48d94f48.jpg",
     "static/media/About_Background_Mobile.jpg": "/Hamid_Porfolio/static/media/About_Background_Mobile.bf8d5021d0190463aaf5.jpg",
     "static/media/Hamid.jpg": "/Hamid_Porfolio/static/media/Hamid.dc25c2723d5671a74e8e.jpg",
     "index.html": "/Hamid_Porfolio/index.html",
-    "main.8bccdcfb.css.map": "/Hamid_Porfolio/static/css/main.8bccdcfb.css.map",
-    "main.609f11e0.js.map": "/Hamid_Porfolio/static/js/main.609f11e0.js.map"
+    "static/media/close-outline.svg": "/Hamid_Porfolio/static/media/close-outline.d4aee1cabe5f30512b8cfddb628c057d.svg",
+    "main.51a34201.css.map": "/Hamid_Porfolio/static/css/main.51a34201.css.map",
+    "main.2a8c80a4.js.map": "/Hamid_Porfolio/static/js/main.2a8c80a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bccdcfb.css",
-    "static/js/main.609f11e0.js"
+    "static/css/main.51a34201.css",
+    "static/js/main.2a8c80a4.js"
   ]
 }
