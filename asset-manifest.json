@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Hamid_Porfolio/static/css/main.6e5ded07.css",
-    "main.js": "/Hamid_Porfolio/static/js/main.01de971d.js",
+    "main.css": "/Hamid_Porfolio/static/css/main.68987b3a.css",
+    "main.js": "/Hamid_Porfolio/static/js/main.9ef774d0.js",
     "static/media/6.jpg": "/Hamid_Porfolio/static/media/6.f2a23f609adc50a8fdbc.jpg",
     "static/media/About_Background_Desktop.jpg": "/Hamid_Porfolio/static/media/About_Background_Desktop.dcf37ad2c2800b59930a.jpg",
     "static/media/2.jpg": "/Hamid_Porfolio/static/media/2.d2aeff1a57774310720b.jpg",
@@ -27,11 +27,11 @@
     "static/media/SOS.png": "/Hamid_Porfolio/static/media/SOS.7a2f51967b6954e16234.png",
     "index.html": "/Hamid_Porfolio/index.html",
     "static/media/close-outline.svg": "/Hamid_Porfolio/static/media/close-outline.d4aee1cabe5f30512b8cfddb628c057d.svg",
-    "main.6e5ded07.css.map": "/Hamid_Porfolio/static/css/main.6e5ded07.css.map",
-    "main.01de971d.js.map": "/Hamid_Porfolio/static/js/main.01de971d.js.map"
+    "main.68987b3a.css.map": "/Hamid_Porfolio/static/css/main.68987b3a.css.map",
+    "main.9ef774d0.js.map": "/Hamid_Porfolio/static/js/main.9ef774d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e5ded07.css",
-    "static/js/main.01de971d.js"
+    "static/css/main.68987b3a.css",
+    "static/js/main.9ef774d0.js"
   ]
 }
